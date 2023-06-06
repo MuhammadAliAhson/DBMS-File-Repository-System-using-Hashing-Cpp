@@ -1,0 +1,925 @@
+ID,Year,113 Cause Name,Cause Name,State,Deaths,Age-adjusted Death Rate
+3117,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4064,57.9
+3118,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3794,55.3
+3119,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3745,55.5
+3120,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3878,58.1
+3121,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3227,49.3
+3122,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+3123,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3471,54.8
+3124,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3145,50.4
+3125,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3264,52.8
+3126,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3138,51.5
+3127,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3136,52.1
+3128,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3052,51.2
+3129,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3053,51.6
+3130,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,2006,48.6
+3131,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,2011,49.1
+3132,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1915,47.7
+3133,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1892,47.8
+3134,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1824,46.8
+3135,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1833,47.6
+3136,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1698,44.7
+3137,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1832,48.7
+3138,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1848,49.4
+3139,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1660,44.6
+3140,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1655,45.2
+3141,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1703,47
+3142,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1547,42.7
+3143,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1674,46.6
+3144,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1580,44.4
+3145,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1552,43.6
+3146,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1512,42.9
+3147,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1643,46.8
+3148,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1654,48.3
+3149,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1704,49.7
+3150,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1673,49.2
+3151,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1673,50.3
+3152,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1687,51.8
+3153,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1647,51.3
+3154,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1580,50
+3155,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1580,50.6
+3156,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1626,52.8
+3157,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1476,48.6
+3158,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1501,49.9
+3159,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1567,52.7
+3160,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1316,44.9
+3161,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1443,49.5
+3162,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1367,47.2
+3163,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1444,50.1
+3164,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1411,49.1
+3165,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1386,48.7
+3166,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3486,66.3
+3167,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3331,64.3
+3168,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3214,63.8
+3169,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3187,64.6
+3170,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3100,64.2
+3171,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3020,64.1
+3172,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2779,60
+3173,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2854,62.2
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+3175,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2629,59.9
+3176,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2407,55.6
+3177,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2578,61
+3178,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,54.8
+3179,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2391,58.4
+3180,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2401,59.3
+3181,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,56.6
+3182,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2170,54.8
+3183,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2327,59
+3184,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2221,43
+3185,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2178,43.2
+3186,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2237,45.5
+3187,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2274,47.3
+3188,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2074,44.5
+3189,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1904,41.5
+3190,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1939,43.6
+3191,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1878,42.7
+3192,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1896,44
+3193,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1685,40
+3194,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+3195,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1906,44.6
+3196,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1615,38.4
+3197,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1731,41.4
+3198,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1696,41.2
+3199,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1763,43.2
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+3201,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1610,40.2
+3202,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,928,47.4
+3203,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,1025,53.6
+3204,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,896,48.1
+3205,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,902,49.1
+3206,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,817,45.4
+3207,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,842,48.4
+3208,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,809,47.4
+3209,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,821,48.6
+3210,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,794,47.8
+3211,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,728,44.5
+3212,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,783,49.1
+3213,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,830,53.2
+3214,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,766,49.7
+3215,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,782,51.3
+3216,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,791,52.9
+3217,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,800,54.4
+3218,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,768,53
+3219,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,751,52.6
+3220,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2072,30.5
+3221,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2040,30.7
+3222,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1909,29.4
+3223,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2051,32.5
+3224,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1981,32.3
+3225,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2050,34.3
+3226,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2039,35
+3227,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2064,36.3
+3228,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1982,35.8
+3229,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1901,35.2
+3230,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1832,34.4
+3231,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1908,36.5
+3232,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1910,37.3
+3233,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1986,39.5
+3234,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1944,39.4
+3235,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1907,39.5
+3236,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1927,40.9
+3237,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1943,41.6
+3238,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2674,31.4
+3239,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2784,33
+3240,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2592,31.4
+3241,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2572,31.7
+3242,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2520,31.7
+3243,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2651,33.9
+3244,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2383,31.1
+3245,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2559,33.8
+3246,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2587,34.5
+3247,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2332,31.6
+3248,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2535,34.8
+3249,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2647,36.6
+3250,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2574,35.9
+3251,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2765,38.9
+3252,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2745,38.9
+3253,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2810,40.2
+3254,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2925,42.1
+3255,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2862,41.6
+3256,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5572,44.4
+3257,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5848,47.5
+3258,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5345,44.2
+3259,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5539,46.7
+3260,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5251,45.2
+3261,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5192,45.5
+3262,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5079,45.6
+3263,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4961,45
+3264,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5185,47.8
+3265,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4624,43.4
+3266,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4474,42.8
+3267,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4466,43.4
+3268,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4252,41.8
+3269,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4472,44.6
+3270,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4431,44.8
+3271,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4148,42.5
+3272,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4352,45.3
+3273,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4316,45.3
+3274,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2369,35.8
+3275,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2351,36.4
+3276,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2277,36
+3277,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2287,37.1
+3278,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2124,35.3
+3279,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2170,37.1
+3280,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2016,35.1
+3281,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1961,34.8
+3282,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2096,37.8
+3283,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1758,32.5
+3284,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1770,33.2
+3285,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1965,37.4
+3286,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1839,35.7
+3287,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1832,35.8
+3288,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1971,39.2
+3289,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1909,38.8
+3290,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1902,39
+3291,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1994,41.3
+3292,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,2116,62
+3293,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1924,57.1
+3294,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1738,52.2
+3295,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1755,54.3
+3296,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1729,54.7
+3297,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1694,55.1
+3298,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1661,55.2
+3299,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1556,52.7
+3300,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1520,51.6
+3301,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1408,48.7
+3302,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1378,48.4
+3303,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1473,52
+3304,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1350,48.3
+3305,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1394,50.7
+3306,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1378,50.3
+3307,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1333,49.1
+3308,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1257,46.5
+3309,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1267,47.2
+3310,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3961,52.1
+3311,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3935,52.8
+3312,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3762,51.4
+3313,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3798,52.9
+3314,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3650,51.7
+3315,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3492,50.5
+3316,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3557,52.6
+3317,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3456,51.9
+3318,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3765,57.4
+3319,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3081,47.6
+3320,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3017,47.4
+3321,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3085,49.2
+3322,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2731,44.1
+3323,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2939,47.9
+3324,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2867,47.2
+3325,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2882,47.8
+3326,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2802,46.9
+3327,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3068,51.7
+3328,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,722,51.9
+3329,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,679,50.2
+3330,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,668,50.3
+3331,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,647,50.7
+3332,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,605,48.6
+3333,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,637,52.9
+3334,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,602,51.3
+3335,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,598,51.6
+3336,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,691,61
+3337,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,604,54.7
+3338,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,579,53.3
+3339,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,580,54.9
+3340,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,578,55.9
+3341,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,588,58.3
+3342,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,576,57.8
+3343,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,583,59.3
+3344,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,517,53.6
+3345,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,566,59.4
+3346,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1117,48.9
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+3348,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1123,50.6
+3349,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1032,47.7
+3350,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1052,48.9
+3351,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1068,50.5
+3352,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1008,48.8
+3353,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,987,48.3
+3354,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1047,51.6
+3355,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,919,45.9
+3356,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,878,44.4
+3357,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,949,48.7
+3358,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,815,42.2
+3359,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,894,47
+3360,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,934,49.1
+3361,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,882,46.6
+3362,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,838,45
+3363,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,945,50.6
+3364,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1778,56.6
+3365,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1617,54.1
+3366,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1522,52.9
+3367,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1482,54.1
+3368,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1370,52
+3369,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1243,49.8
+3370,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1186,49.5
+3371,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1244,53.3
+3372,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1257,56.4
+3373,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1050,48.9
+3374,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1066,50.3
+3375,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1227,60.4
+3376,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1124,57.2
+3377,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1173,62.9
+3378,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1174,65.9
+3379,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1136,65.6
+3380,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,989,61.3
+3381,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1029,64.7
+3382,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,684,39.3
+3383,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,705,41.9
+3384,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,680,41.3
+3385,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,668,42
+3386,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,674,43.5
+3387,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,650,43.1
+3388,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,609,41.7
+3389,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,652,45.6
+3390,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,688,48.8
+3391,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,611,44.2
+3392,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,603,44.9
+3393,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,630,48.2
+3394,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,600,46.7
+3395,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,531,42.8
+3396,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,577,47.4
+3397,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,616,51.4
+3398,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,581,49.4
+3399,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,592,51
+3400,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3064,27.9
+3401,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3202,29.6
+3402,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3046,28.5
+3403,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3245,31.1
+3404,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3271,31.7
+3405,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3157,31.2
+3406,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3106,31.4
+3407,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3125,31.8
+3408,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3280,33.9
+3409,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2991,31.4
+3410,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2862,30.5
+3411,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3148,34
+3412,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3031,33
+3413,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2910,31.9
+3414,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2885,32
+3415,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2911,32.6
+3416,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3007,34.1
+3417,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3130,35.9
+3418,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1131,44.4
+3419,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1109,44.7
+3420,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1127,46.4
+3421,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1052,44.7
+3422,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,965,42.5
+3423,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1024,46.2
+3424,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1022,47.7
+3425,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,984,47.1
+3426,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1001,49.7
+3427,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,884,45.1
+3428,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,888,46.5
+3429,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,855,46.2
+3430,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,753,42
+3431,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,936,53.3
+3432,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,857,49.7
+3433,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,775,45.8
+3434,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,767,46.9
+3435,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,848,52.9
+3436,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6860,28.4
+3437,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7109,29.9
+3438,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6806,29.1
+3439,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7110,30.7
+3440,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7034,31.1
+3441,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6963,31.5
+3442,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6847,31.4
+3443,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6740,31.4
+3444,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6919,32.6
+3445,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6561,31.3
+3446,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6329,30.5
+3447,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6818,33.2
+3448,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6786,33.4
+3449,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6709,33.3
+3450,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6966,34.9
+3451,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6906,35
+3452,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6784,34.9
+3453,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7086,36.9
+3454,2016,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5311,44.8
+3455,2015,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5221,45.5
+3456,2014,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5023,45.1
+3457,2013,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4987,46.3
+3458,2012,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4844,46.4
+3459,2011,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4708,46.7
+3460,2010,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4495,46.1
+3461,2009,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4329,45.4
+3462,2008,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4572,49.3
+3463,2007,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4231,46.9
+3464,2006,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4017,45.8
+3465,2005,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4149,49.2
+3466,2004,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3625,43.9
+3467,2003,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3887,48.2
+3468,2002,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3674,46.6
+3469,2001,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3514,45.6
+3470,2000,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3699,48.9
+3471,1999,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3591,48
+3472,2016,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,314,34.7
+3473,2015,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,351,40
+3474,2014,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,317,36.1
+3475,2013,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,331,38.2
+3476,2012,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,306,35.3
+3477,2011,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,342,39.6
+3478,2010,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,356,43.1
+3479,2009,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,341,41.6
+3480,2008,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,355,43.4
+3481,2007,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,265,32.7
+3482,2006,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,283,34.4
+3483,2005,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,272,34.4
+3484,2004,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,273,34.6
+3485,2003,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,302,39.1
+3486,2002,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,322,41.8
+3487,2001,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,308,39.6
+3488,2000,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,295,38.6
+3489,1999,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,273,35.8
+3490,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7015,47.5
+3491,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7211,49.6
+3492,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6765,47.2
+3493,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7007,49.7
+3494,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7070,51.2
+3495,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6996,51.7
+3496,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6717,50.5
+3497,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6642,50.4
+3498,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6928,53.3
+3499,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6454,50.4
+3500,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+3501,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6580,52.8
+3502,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5896,47.8
+3503,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5927,48.5
+3504,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6063,50.2
+3505,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5881,49.3
+3506,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5983,50.6
+3507,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5858,49.9
+3508,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2794,61.4
+3509,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2924,65.8
+3510,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2772,63.3
+3511,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2680,62.4
+3512,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2585,61.4
+3513,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2637,63.8
+3514,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2720,67.4
+3515,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2595,65.1
+3516,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2694,68.9
+3517,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2386,62.1
+3518,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2192,57.6
+3519,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2368,63.6
+3520,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1985,53.9
+3521,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2160,59
+3522,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1988,54.8
+3523,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1922,53.3
+3524,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1980,55.2
+3525,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1751,49.3
+3526,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2080,40.4
+3527,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2119,42.4
+3528,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1955,40.1
+3529,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2029,43
+3530,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1915,42.2
+3531,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2023,45.1
+3532,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1971,45.3
+3533,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1943,45.3
+3534,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1951,46.6
+3535,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1892,46.1
+3536,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+3537,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1837,47
+3538,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1778,46.7
+3539,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1819,48.5
+3540,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1845,50.2
+3541,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1726,47.9
+3542,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1677,47.5
+3543,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1765,50.4
+3544,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6523,36.8
+3545,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6664,38.1
+3546,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6422,37
+3547,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6716,39.3
+3548,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6550,38.8
+3549,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6627,39.7
+3550,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6202,37.9
+3551,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6432,39.6
+3552,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6767,42
+3553,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6077,38.1
+3554,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,5621,35.6
+3555,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6149,39.3
+3556,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,5978,38.6
+3557,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6046,39.2
+3558,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6017,39.3
+3559,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,5845,38.6
+3560,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6079,40.3
+3561,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6141,41.1
+3562,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,445,31.3
+3563,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,510,36.9
+3564,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,505,36
+3565,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,476,34.7
+3566,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,504,36.9
+3567,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,526,39.5
+3568,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,507,38.5
+3569,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,511,39.8
+3570,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,478,37.3
+3571,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,421,32.5
+3572,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,485,38.1
+3573,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,523,40.6
+3574,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,463,36.3
+3575,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,495,39
+3576,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,521,41.5
+3577,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,511,41.3
+3578,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,500,40.4
+3579,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,495,40.6
+3580,2016,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2870,47.5
+3581,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2908,49.9
+3582,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2715,48.2
+3583,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2756,50.8
+3584,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2467,46.9
+3585,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2402,47.6
+3586,2010,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2264,46.3
+3587,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2317,48.2
+3588,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2266,48.5
+3589,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2036,44.9
+3590,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+3591,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1977,46.7
+3592,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1792,43.5
+3593,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1913,47.4
+3594,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1889,48.1
+3595,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1731,44.8
+3596,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1730,45.8
+3597,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1752,47
+3598,2016,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,426,38.3
+3599,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,502,45.3
+3600,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,441,40.8
+3601,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,416,39.3
+3602,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,481,45.7
+3603,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,486,47.4
+3604,2010,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,451,46
+3605,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,440,44.9
+3606,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,491,50.7
+3607,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,457,48
+3608,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,376,40.1
+3609,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,440,48.1
+3610,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,391,42.9
+3611,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,379,42.9
+3612,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.2
+3613,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,362,41.7
+3614,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.6
+3615,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,335,38.6
+3616,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4318,54.7
+3617,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4239,54.9
+3618,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3969,52.5
+3619,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3904,53.2
+3620,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3695,51.8
+3621,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3658,52.7
+3622,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3551,52.7
+3623,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3503,52.9
+3624,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3545,54.7
+3625,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3167,50
+3626,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+3627,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3185,52.9
+3628,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2987,50.7
+3629,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3067,52.8
+3630,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3011,52.7
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+3632,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2887,52.1
+3633,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2748,49.9
+3634,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,10107,39.5
+3635,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,10231,41.3
+3636,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,9668,40.5
+3637,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,9800,42.4
+3638,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,9524,42.7
+3639,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,9097,42.3
+3640,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,8921,43
+3641,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,8649,42.6
+3642,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,8874,45.1
+3643,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,8107,42.2
+3644,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7639,40.8
+3645,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7988,44.1
+3646,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7402,41.9
+3647,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7567,43.8
+3648,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7720,45.7
+3649,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7739,46.7
+3650,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7286,44.7
+3651,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7518,46.8
+3652,2016,Chronic lower respiratory diseases (J40-J47),CLRD,United States,154596,40.6
+3653,2015,Chronic lower respiratory diseases (J40-J47),CLRD,United States,155041,41.6
+3654,2014,Chronic lower respiratory diseases (J40-J47),CLRD,United States,147101,40.5
+3655,2013,Chronic lower respiratory diseases (J40-J47),CLRD,United States,149205,42.1
+3656,2012,Chronic lower respiratory diseases (J40-J47),CLRD,United States,143489,41.5
+3657,2011,Chronic lower respiratory diseases (J40-J47),CLRD,United States,142943,42.5
+3658,2010,Chronic lower respiratory diseases (J40-J47),CLRD,United States,138080,42.2
+3659,2009,Chronic lower respiratory diseases (J40-J47),CLRD,United States,137353,42.7
+3660,2008,Chronic lower respiratory diseases (J40-J47),CLRD,United States,141090,44.7
+3661,2007,Chronic lower respiratory diseases (J40-J47),CLRD,United States,127924,41.4
+3662,2006,Chronic lower respiratory diseases (J40-J47),CLRD,United States,124583,41
+3663,2005,Chronic lower respiratory diseases (J40-J47),CLRD,United States,130933,43.9
+3664,2004,Chronic lower respiratory diseases (J40-J47),CLRD,United States,121987,41.6
+3665,2003,Chronic lower respiratory diseases (J40-J47),CLRD,United States,126382,43.7
+3666,2002,Chronic lower respiratory diseases (J40-J47),CLRD,United States,124816,43.9
+3667,2001,Chronic lower respiratory diseases (J40-J47),CLRD,United States,123013,43.9
+3668,2000,Chronic lower respiratory diseases (J40-J47),CLRD,United States,122009,44.2
+3669,1999,Chronic lower respiratory diseases (J40-J47),CLRD,United States,124181,45.4
+3670,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,875,35.8
+3671,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,811,33.9
+3672,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,757,32.6
+3673,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,718,32
+3674,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,663,30.6
+3675,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,647,30.2
+3676,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,671,33.2
+3677,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,581,29.5
+3678,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,638,33.3
+3679,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,617,33.2
+3680,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,591,32.9
+3681,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,592,34.4
+3682,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,595,35.6
+3683,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,569,35
+3684,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,603,38.1
+3685,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,525,33.9
+3686,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,524,34.6
+3687,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,559,37.6
+3688,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,355,41.3
+3689,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,357,42.3
+3690,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,333,41.2
+3691,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,353,44.1
+3692,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,364,46.3
+3693,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,349,45.5
+3694,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,335,45.3
+3695,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,364,49.3
+3696,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,341,47.6
+3697,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,316,45
+3698,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,320,46.5
+3699,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,381,57.1
+3700,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,296,45
+3701,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,301,46.2
+3702,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,276,43.1
+3703,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,305,48.5
+3704,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,312,50.5
+3705,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,300,49.2
+3706,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3233,34.6
+3707,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3370,37.1
+3708,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3108,35.3
+3709,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3181,37.3
+3710,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3070,36.9
+3711,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3112,38.6
+3712,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2969,38.1
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+3714,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3023,40.6
+3715,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2770,38.3
+3716,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2697,38
+3717,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2897,41.8
+3718,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2730,40.4
+3719,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2983,45
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+3721,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2744,43.1
+3722,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2820,45.1
+3723,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2699,43.8
+3724,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,3036,37.3
+3725,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,3154,39.7
+3726,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2916,37.9
+3727,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2933,39.4
+3728,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2955,41
+3729,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,3080,44
+3730,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2737,40.4
+3731,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2933,44.3
+3732,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2930,45.6
+3733,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2684,42.8
+3734,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2662,43.5
+3735,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2699,45.4
+3736,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2549,43.8
+3737,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2652,46.6
+3738,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2721,48.6
+3739,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2634,48.1
+3740,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2644,49.3
+3741,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2713,51.2
+3742,2016,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1599,62.1
+3743,2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628,64.6
+3744,2014,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1578,63
+3745,2013,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,64.6
+3746,2012,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1524,62.4
+3747,2011,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1571,66.1
+3748,2010,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1482,62.7
+3749,2009,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1490,63.9
+3750,2008,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,68.9
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+3752,2006,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+3753,2005,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1350,60.5
+3754,2004,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1225,55.6
+3755,2003,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1296,59.2
+3756,2002,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1228,56.6
+3757,2001,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1273,59.2
+3758,2000,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1345,62.9
+3759,1999,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1236,57.9
+3760,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2786,38.3
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+3762,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2759,39.3
+3763,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2789,40.3
+3764,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2524,37.1
+3765,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2615,39.5
+3766,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2474,38
+3767,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2461,38.5
+3768,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2538,39.9
+3769,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2399,38.6
+3770,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+3771,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2449,40.7
+3772,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2312,38.9
+3773,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2299,39.1
+3774,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2335,40.2
+3775,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2375,41.6
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+3777,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2270,40.5
+3778,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,48.9
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+3780,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,343,55
+3781,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,387,63.1
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+3783,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,57
+3784,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,332,59.5
+3785,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,310,57.2
+3786,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,311,58.5
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+3789,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,291,57.6
+3790,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,308,62.8
+3791,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,278,57.6
+3792,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,324,68.7
+3793,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,270,57.9
+3794,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,283,62.4
+3795,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,338,75.6
+3796,2016,Diabetes mellitus (E10-E14),Diabetes,Alabama,1183,20.1
+3797,2015,Diabetes mellitus (E10-E14),Diabetes,Alabama,1255,21.7
+3798,2014,Diabetes mellitus (E10-E14),Diabetes,Alabama,1281,22.8
+3799,2013,Diabetes mellitus (E10-E14),Diabetes,Alabama,1349,24.3
+3800,2012,Diabetes mellitus (E10-E14),Diabetes,Alabama,1300,23.9
+3801,2011,Diabetes mellitus (E10-E14),Diabetes,Alabama,1278,23.9
+3802,2010,Diabetes mellitus (E10-E14),Diabetes,Alabama,1302,25
+3803,2009,Diabetes mellitus (E10-E14),Diabetes,Alabama,1259,24.4
+3804,2008,Diabetes mellitus (E10-E14),Diabetes,Alabama,1386,27.2
+3805,2007,Diabetes mellitus (E10-E14),Diabetes,Alabama,1313,26.4
+3806,2006,Diabetes mellitus (E10-E14),Diabetes,Alabama,1453,29.8
+3807,2005,Diabetes mellitus (E10-E14),Diabetes,Alabama,1429,29.9
+3808,2004,Diabetes mellitus (E10-E14),Diabetes,Alabama,1449,30.8
+3809,2003,Diabetes mellitus (E10-E14),Diabetes,Alabama,1414,30.4
+3810,2002,Diabetes mellitus (E10-E14),Diabetes,Alabama,1486,32.3
+3811,2001,Diabetes mellitus (E10-E14),Diabetes,Alabama,1344,29.6
+3812,2000,Diabetes mellitus (E10-E14),Diabetes,Alabama,1321,29.3
+3813,1999,Diabetes mellitus (E10-E14),Diabetes,Alabama,1341,30
+3814,2016,Diabetes mellitus (E10-E14),Diabetes,Alaska,124,19.3
+3815,2015,Diabetes mellitus (E10-E14),Diabetes,Alaska,142,23.9
+3816,2014,Diabetes mellitus (E10-E14),Diabetes,Alaska,113,19.4
+3817,2013,Diabetes mellitus (E10-E14),Diabetes,Alaska,112,20.1
+3818,2012,Diabetes mellitus (E10-E14),Diabetes,Alaska,107,18.8
+3819,2011,Diabetes mellitus (E10-E14),Diabetes,Alaska,107,20.6
+3820,2010,Diabetes mellitus (E10-E14),Diabetes,Alaska,86,19.6
+3821,2009,Diabetes mellitus (E10-E14),Diabetes,Alaska,84,18.1
+3822,2008,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.3
+3823,2007,Diabetes mellitus (E10-E14),Diabetes,Alaska,105,24.1
+3824,2006,Diabetes mellitus (E10-E14),Diabetes,Alaska,109,25.9
+3825,2005,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.4
+3826,2004,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.6
+3827,2003,Diabetes mellitus (E10-E14),Diabetes,Alaska,102,27.7
+3828,2002,Diabetes mellitus (E10-E14),Diabetes,Alaska,86,22
+3829,2001,Diabetes mellitus (E10-E14),Diabetes,Alaska,80,22.8
+3830,2000,Diabetes mellitus (E10-E14),Diabetes,Alaska,87,27.3
+3831,1999,Diabetes mellitus (E10-E14),Diabetes,Alaska,67,23.8
+3832,2016,Diabetes mellitus (E10-E14),Diabetes,Arizona,2025,23.9
+3833,2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081,25.3
+3834,2014,Diabetes mellitus (E10-E14),Diabetes,Arizona,1936,24.3
+3835,2013,Diabetes mellitus (E10-E14),Diabetes,Arizona,1786,23.5
+3836,2012,Diabetes mellitus (E10-E14),Diabetes,Arizona,1736,23.4
+3837,2011,Diabetes mellitus (E10-E14),Diabetes,Arizona,1740,24.3
+3838,2010,Diabetes mellitus (E10-E14),Diabetes,Arizona,1389,20.3
+3839,2009,Diabetes mellitus (E10-E14),Diabetes,Arizona,1083,16.2
+3840,2008,Diabetes mellitus (E10-E14),Diabetes,Arizona,1173,18
+3841,2007,Diabetes mellitus (E10-E14),Diabetes,Arizona,1159,18.3
+3842,2006,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+3843,2005,Diabetes mellitus (E10-E14),Diabetes,Arizona,1208,20.4
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+3845,2003,Diabetes mellitus (E10-E14),Diabetes,Arizona,1153,20.9
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+3847,2001,Diabetes mellitus (E10-E14),Diabetes,Arizona,1058,20.3
+3848,2000,Diabetes mellitus (E10-E14),Diabetes,Arizona,1012,20
+3849,1999,Diabetes mellitus (E10-E14),Diabetes,Arizona,1063,21.5
+3850,2016,Diabetes mellitus (E10-E14),Diabetes,Arkansas,920,25.4
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+3852,2014,Diabetes mellitus (E10-E14),Diabetes,Arkansas,828,24
+3853,2013,Diabetes mellitus (E10-E14),Diabetes,Arkansas,835,24.2
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+3855,2011,Diabetes mellitus (E10-E14),Diabetes,Arkansas,908,27
+3856,2010,Diabetes mellitus (E10-E14),Diabetes,Arkansas,850,25.8
+3857,2009,Diabetes mellitus (E10-E14),Diabetes,Arkansas,890,27.4
+3858,2008,Diabetes mellitus (E10-E14),Diabetes,Arkansas,901,28.1
+3859,2007,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,26.8
+3860,2006,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+3861,2005,Diabetes mellitus (E10-E14),Diabetes,Arkansas,824,27.1
+3862,2004,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,28
+3863,2003,Diabetes mellitus (E10-E14),Diabetes,Arkansas,884,29.9
+3864,2002,Diabetes mellitus (E10-E14),Diabetes,Arkansas,793,27
+3865,2001,Diabetes mellitus (E10-E14),Diabetes,Arkansas,756,26
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+3867,1999,Diabetes mellitus (E10-E14),Diabetes,Arkansas,691,24.2
+3868,2016,Diabetes mellitus (E10-E14),Diabetes,California,9124,21.4
+3869,2015,Diabetes mellitus (E10-E14),Diabetes,California,8845,21.2
+3870,2014,Diabetes mellitus (E10-E14),Diabetes,California,8249,20.4
+3871,2013,Diabetes mellitus (E10-E14),Diabetes,California,8057,20.6
+3872,2012,Diabetes mellitus (E10-E14),Diabetes,California,7895,20.7
+3873,2011,Diabetes mellitus (E10-E14),Diabetes,California,7695,20.7
+3874,2010,Diabetes mellitus (E10-E14),Diabetes,California,7061,19.7
+3875,2009,Diabetes mellitus (E10-E14),Diabetes,California,6979,19.8
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+3877,2007,Diabetes mellitus (E10-E14),Diabetes,California,7413,22.2
+3878,2006,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+3879,2005,Diabetes mellitus (E10-E14),Diabetes,California,7697,23.8
+3880,2004,Diabetes mellitus (E10-E14),Diabetes,California,7117,22.6
+3881,2003,Diabetes mellitus (E10-E14),Diabetes,California,7093,22.8
+3882,2002,Diabetes mellitus (E10-E14),Diabetes,California,6807,22.5
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+3884,2000,Diabetes mellitus (E10-E14),Diabetes,California,6190,21.3
+3885,1999,Diabetes mellitus (E10-E14),Diabetes,California,6401,22.5
+3886,2016,Diabetes mellitus (E10-E14),Diabetes,Colorado,938,16.2
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+3888,2014,Diabetes mellitus (E10-E14),Diabetes,Colorado,835,15.5
+3889,2013,Diabetes mellitus (E10-E14),Diabetes,Colorado,788,15
+3890,2012,Diabetes mellitus (E10-E14),Diabetes,Colorado,797,15.9
+3891,2011,Diabetes mellitus (E10-E14),Diabetes,Colorado,790,16.4
+3892,2010,Diabetes mellitus (E10-E14),Diabetes,Colorado,721,15.2
+3893,2009,Diabetes mellitus (E10-E14),Diabetes,Colorado,779,17.2
+3894,2008,Diabetes mellitus (E10-E14),Diabetes,Colorado,767,17.6
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+3896,2006,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+3898,2004,Diabetes mellitus (E10-E14),Diabetes,Colorado,696,18.2
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+3900,2002,Diabetes mellitus (E10-E14),Diabetes,Colorado,659,18
+3901,2001,Diabetes mellitus (E10-E14),Diabetes,Colorado,667,18.8
+3902,2000,Diabetes mellitus (E10-E14),Diabetes,Colorado,635,18.5
+3903,1999,Diabetes mellitus (E10-E14),Diabetes,Colorado,639,19.2
+3904,2016,Diabetes mellitus (E10-E14),Diabetes,Connecticut,699,14.9
+3905,2015,Diabetes mellitus (E10-E14),Diabetes,Connecticut,653,13.9
+3906,2014,Diabetes mellitus (E10-E14),Diabetes,Connecticut,685,14.9
+3907,2013,Diabetes mellitus (E10-E14),Diabetes,Connecticut,664,14.8
+3908,2012,Diabetes mellitus (E10-E14),Diabetes,Connecticut,631,14.2
+3909,2011,Diabetes mellitus (E10-E14),Diabetes,Connecticut,692,15.5
+3910,2010,Diabetes mellitus (E10-E14),Diabetes,Connecticut,662,15.4
+3911,2009,Diabetes mellitus (E10-E14),Diabetes,Connecticut,624,14.5
+3912,2008,Diabetes mellitus (E10-E14),Diabetes,Connecticut,624,14.7
+3913,2007,Diabetes mellitus (E10-E14),Diabetes,Connecticut,646,15.5
+3914,2006,Diabetes mellitus (E10-E14),Diabetes,Connecticut,782,19
+3915,2005,Diabetes mellitus (E10-E14),Diabetes,Connecticut,811,20
+3916,2004,Diabetes mellitus (E10-E14),Diabetes,Connecticut,767,19.1
+3917,2003,Diabetes mellitus (E10-E14),Diabetes,Connecticut,665,16.8
+3918,2002,Diabetes mellitus (E10-E14),Diabetes,Connecticut,675,17.3
+3919,2001,Diabetes mellitus (E10-E14),Diabetes,Connecticut,759,19.7
+3920,2000,Diabetes mellitus (E10-E14),Diabetes,Connecticut,683,18.1
+3921,1999,Diabetes mellitus (E10-E14),Diabetes,Connecticut,691,18.5
+3922,2016,Diabetes mellitus (E10-E14),Diabetes,Delaware,203,17
+3923,2015,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,18.1
+3924,2014,Diabetes mellitus (E10-E14),Diabetes,Delaware,226,19.8
+3925,2013,Diabetes mellitus (E10-E14),Diabetes,Delaware,218,19.4
+3926,2012,Diabetes mellitus (E10-E14),Diabetes,Delaware,241,22.3
+3927,2011,Diabetes mellitus (E10-E14),Diabetes,Delaware,224,21.5
+3928,2010,Diabetes mellitus (E10-E14),Diabetes,Delaware,196,19.2
+3929,2009,Diabetes mellitus (E10-E14),Diabetes,Delaware,206,20.8
+3930,2008,Diabetes mellitus (E10-E14),Diabetes,Delaware,217,22.5
+3931,2007,Diabetes mellitus (E10-E14),Diabetes,Delaware,223,23.6
+3932,2006,Diabetes mellitus (E10-E14),Diabetes,Delaware,191,20.6
+3933,2005,Diabetes mellitus (E10-E14),Diabetes,Delaware,233,26.5
+3934,2004,Diabetes mellitus (E10-E14),Diabetes,Delaware,210,24.5
+3935,2003,Diabetes mellitus (E10-E14),Diabetes,Delaware,239,28.4
+3936,2002,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,26.1
+3937,2001,Diabetes mellitus (E10-E14),Diabetes,Delaware,218,27.5
+3938,2000,Diabetes mellitus (E10-E14),Diabetes,Delaware,193,24.6
+3939,1999,Diabetes mellitus (E10-E14),Diabetes,Delaware,179,23.5
+3940,2016,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,127,19.8
+3941,2015,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,162,25.7
+3942,2014,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,119,18.8
+3943,2013,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,108,17.9
+3944,2012,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,145,24.1
+3945,2011,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,152,26
+3946,2010,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,145,24.9
+3947,2009,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,129,22.5
+3948,2008,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,156,27.5
+3949,2007,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,152,26.6
+3950,2006,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,184,33
+3951,2005,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,192,34.4
+3952,2004,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,224,40.2
+3953,2003,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,179,32.4
+3954,2002,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,191,34.1
+3955,2001,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,209,37.4
+3956,2000,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,221,39.3
+3957,1999,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,221,39.6
+3958,2016,Diabetes mellitus (E10-E14),Diabetes,Florida,5782,19.5
+3959,2015,Diabetes mellitus (E10-E14),Diabetes,Florida,5403,18.6
+3960,2014,Diabetes mellitus (E10-E14),Diabetes,Florida,5371,19.2
+3961,2013,Diabetes mellitus (E10-E14),Diabetes,Florida,5238,19.2
+3962,2012,Diabetes mellitus (E10-E14),Diabetes,Florida,5092,19.2
+3963,2011,Diabetes mellitus (E10-E14),Diabetes,Florida,5093,19.7
+3964,2010,Diabetes mellitus (E10-E14),Diabetes,Florida,5024,20.1
+3965,2009,Diabetes mellitus (E10-E14),Diabetes,Florida,4901,20
+3966,2008,Diabetes mellitus (E10-E14),Diabetes,Florida,5161,21.4
+3967,2007,Diabetes mellitus (E10-E14),Diabetes,Florida,5110,21.7
+3968,2006,Diabetes mellitus (E10-E14),Diabetes,Florida,5172,22.3
+3969,2005,Diabetes mellitus (E10-E14),Diabetes,Florida,5193,22.7
+3970,2004,Diabetes mellitus (E10-E14),Diabetes,Florida,4809,21.6
+3971,2003,Diabetes mellitus (E10-E14),Diabetes,Florida,4762,21.9
+3972,2002,Diabetes mellitus (E10-E14),Diabetes,Florida,4583,21.5
+3973,2001,Diabetes mellitus (E10-E14),Diabetes,Florida,4631,22.1
+3974,2000,Diabetes mellitus (E10-E14),Diabetes,Florida,4449,21.6
+3975,1999,Diabetes mellitus (E10-E14),Diabetes,Florida,4357,21.5
+3976,2016,Diabetes mellitus (E10-E14),Diabetes,Georgia,2238,21.2
+3977,2015,Diabetes mellitus (E10-E14),Diabetes,Georgia,2210,21.4
+3978,2014,Diabetes mellitus (E10-E14),Diabetes,Georgia,2230,22.3
+3979,2013,Diabetes mellitus (E10-E14),Diabetes,Georgia,2199,23
+3980,2012,Diabetes mellitus (E10-E14),Diabetes,Georgia,2088,22.6
+3981,2011,Diabetes mellitus (E10-E14),Diabetes,Georgia,2121,23.6
+3982,2010,Diabetes mellitus (E10-E14),Diabetes,Georgia,1996,23.1
+3983,2009,Diabetes mellitus (E10-E14),Diabetes,Georgia,1582,18.7
+3984,2008,Diabetes mellitus (E10-E14),Diabetes,Georgia,1496,18
+3985,2007,Diabetes mellitus (E10-E14),Diabetes,Georgia,1604,20
+3986,2006,Diabetes mellitus (E10-E14),Diabetes,Georgia,1657,21.2
+3987,2005,Diabetes mellitus (E10-E14),Diabetes,Georgia,1742,23.2
+3988,2004,Diabetes mellitus (E10-E14),Diabetes,Georgia,1623,22.5
+3989,2003,Diabetes mellitus (E10-E14),Diabetes,Georgia,1717,24.4
+3990,2002,Diabetes mellitus (E10-E14),Diabetes,Georgia,1576,23.1
+3991,2001,Diabetes mellitus (E10-E14),Diabetes,Georgia,1475,22.1
+3992,2000,Diabetes mellitus (E10-E14),Diabetes,Georgia,1461,22.4
+3993,1999,Diabetes mellitus (E10-E14),Diabetes,Georgia,1448,22.6
+3994,2016,Diabetes mellitus (E10-E14),Diabetes,Hawaii,285,15.1
+3995,2015,Diabetes mellitus (E10-E14),Diabetes,Hawaii,263,14.5
+3996,2014,Diabetes mellitus (E10-E14),Diabetes,Hawaii,276,15.4
+3997,2013,Diabetes mellitus (E10-E14),Diabetes,Hawaii,271,15.5
+3998,2012,Diabetes mellitus (E10-E14),Diabetes,Hawaii,277,16.2
+3999,2011,Diabetes mellitus (E10-E14),Diabetes,Hawaii,264,15.6
+4000,2010,Diabetes mellitus (E10-E14),Diabetes,Hawaii,272,16.6
+4001,2009,Diabetes mellitus (E10-E14),Diabetes,Hawaii,308,19.5
+4002,2008,Diabetes mellitus (E10-E14),Diabetes,Hawaii,286,18.6
+4003,2007,Diabetes mellitus (E10-E14),Diabetes,Hawaii,291,19
+4004,2006,Diabetes mellitus (E10-E14),Diabetes,Hawaii,271,18.4
+4005,2005,Diabetes mellitus (E10-E14),Diabetes,Hawaii,218,15.1
+4006,2004,Diabetes mellitus (E10-E14),Diabetes,Hawaii,194,13.8
+4007,2003,Diabetes mellitus (E10-E14),Diabetes,Hawaii,202,14.8
+4008,2002,Diabetes mellitus (E10-E14),Diabetes,Hawaii,204,15.5
+4009,2001,Diabetes mellitus (E10-E14),Diabetes,Hawaii,173,13.5
+4010,2000,Diabetes mellitus (E10-E14),Diabetes,Hawaii,203,16.3
+4011,1999,Diabetes mellitus (E10-E14),Diabetes,Hawaii,211,17.3
+4012,2016,Diabetes mellitus (E10-E14),Diabetes,Idaho,375,19.8
+4013,2015,Diabetes mellitus (E10-E14),Diabetes,Idaho,403,22.1
+4014,2014,Diabetes mellitus (E10-E14),Diabetes,Idaho,409,22.9
+4015,2013,Diabetes mellitus (E10-E14),Diabetes,Idaho,404,23.8
+4016,2012,Diabetes mellitus (E10-E14),Diabetes,Idaho,371,22.9
+4017,2011,Diabetes mellitus (E10-E14),Diabetes,Idaho,393,24.2
+4018,2010,Diabetes mellitus (E10-E14),Diabetes,Idaho,353,22.5
+4019,2009,Diabetes mellitus (E10-E14),Diabetes,Idaho,372,24.3
+4020,2008,Diabetes mellitus (E10-E14),Diabetes,Idaho,356,23.9
+4021,2007,Diabetes mellitus (E10-E14),Diabetes,Idaho,331,22.9
+4022,2006,Diabetes mellitus (E10-E14),Diabetes,Idaho,320,23.1
+4023,2005,Diabetes mellitus (E10-E14),Diabetes,Idaho,299,22.4
+4024,2004,Diabetes mellitus (E10-E14),Diabetes,Idaho,344,26.5
+4025,2003,Diabetes mellitus (E10-E14),Diabetes,Idaho,358,28.3
+4026,2002,Diabetes mellitus (E10-E14),Diabetes,Idaho,322,26.1
+4027,2001,Diabetes mellitus (E10-E14),Diabetes,Idaho,318,26.4
+4028,2000,Diabetes mellitus (E10-E14),Diabetes,Idaho,304,25.9
+4029,1999,Diabetes mellitus (E10-E14),Diabetes,Idaho,267,23.1
+4030,2016,Diabetes mellitus (E10-E14),Diabetes,Illinois,2781,18.7
+4031,2015,Diabetes mellitus (E10-E14),Diabetes,Illinois,2817,19.2
+4032,2014,Diabetes mellitus (E10-E14),Diabetes,Illinois,2712,18.7
+4033,2013,Diabetes mellitus (E10-E14),Diabetes,Illinois,2798,19.7
+4034,2012,Diabetes mellitus (E10-E14),Diabetes,Illinois,2706,19.2
+4035,2011,Diabetes mellitus (E10-E14),Diabetes,Illinois,2693,19.4
+4036,2010,Diabetes mellitus (E10-E14),Diabetes,Illinois,2507,18.5
+4037,2009,Diabetes mellitus (E10-E14),Diabetes,Illinois,2741,20.6
+4038,2008,Diabetes mellitus (E10-E14),Diabetes,Illinois,2846,21.6
+4039,2007,Diabetes mellitus (E10-E14),Diabetes,Illinois,2851,22
+4040,2006,Diabetes mellitus (E10-E14),Diabetes,Illinois,2795,21.9
