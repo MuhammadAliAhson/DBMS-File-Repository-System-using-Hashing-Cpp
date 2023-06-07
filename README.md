@@ -1,51 +1,46 @@
-# DBMS_FILE_REPOSITORY_SYSTEM
-Hey Guys!
+# DBMS File Repository System - Open Hashing
 
-I have made a DBMS consisting of three sorting trees(AVL, RED BLACK, and B-Trees) and have 7 possible fields to index this data.
+This repository, named "DBMS_FILE_REPOSITORY_SYSTEM_OPEN_HASHING," contains the project files for a database management system file repository system using open hashing. The repository includes the following folders:
 
-It is actually a file management system connected with each other by pointers (Addresses). I worked on files(text files) to store data instead of databases.
+1. Avl
+   - This folder contains the implementation of an AVL (Adelson-Velsky and Landis) tree data structure. It provides efficient operations for inserting, deleting, and searching elements in a self-balancing binary search tree.
 
-It has a very unique feature of "Where Clause" which is used in the most powerful Language SQL.
+2. B-Tree
+   - This folder contains the implementation of a B-Tree data structure. It is designed to handle large amounts of data and provides efficient operations for insertion, deletion, and searching in logarithmic time complexity.
 
-Furthermore, I have included the AI-Generated Voice for understanding.
- B tree is in the zip folder 
-and other two trees have there Sln respectively
+3. Red Black Tree
+   - This folder contains the implementation of a Red-Black Tree data structure. It is a self-balancing binary search tree that guarantees logarithmic time complexity for insertion, deletion, and searching operations.
 
-Here's a sample README.md file for your project:
+4. Compressed Files
+   - This folder contains compressed files related to the project. It may include archives, zip files, or other compressed formats.
 
-# Data Structures Project
+5. Dataset 1
+   - This folder contains Dataset 1, which is used in the project. The dataset is relevant to the file repository system and can be used for testing, analysis, or other purposes.
 
-This project contains the implementation of various data structures in C++. It includes the following files:
+6. Music
+   - This folder contains music files associated with the project. It may include audio files, soundtracks, or other audio-related resources.
 
-## Files
+## About the Repository
 
-- `Avl.h`: AVL tree implementation.
-- `B-Tree.zip`: ZIP file containing B-Tree implementation.
-- `Black.h`: Implementation of a black tree.
-- `DS 2.vcxproj`: Visual Studio project file.
-- `DS 2.vcxproj.filters`: Visual Studio project filter file.
-- `DS 2.vcxproj.user`: Visual Studio user-specific project file.
-- `NCHS_-_Leading_Causes_of_Death__United_States_X.csv`: CSV files containing leading causes of death in the United States (X ranges from 1 to 10).
-- `README.md`: This file.
-- `Source.cpp`: Main source code file.
-- `Support.h`: Supporting header file.
-- `details.wav`, `end.wav`, `error.wav`, `music1.wav`, `music2.wav`, `music3.wav`, `note_new.txt`, `start.wav`, `victory.wav`: Audio and text files used in the project.
-- `redblack.vcxproj`: Visual Studio project file for the Red-Black tree implementation.
-- `redblack.vcxproj.filters`: Visual Studio project filter file for the Red-Black tree implementation.
-- `redblack.vcxproj.user`: Visual Studio user-specific project file for the Red-Black tree implementation.
+This repository contains the code for the DBMS File Repository System - Open Hashing. The code was written by MuhammadAliAhson and is protected by copyright. If you find this project useful or interesting, kindly show your appreciation by starring the repository.
 
-## Description
+## Getting Started
 
-This project contains various data structures implemented in C++. The data structures include AVL tree, B-Tree, and Black tree. The project also includes CSV files containing leading causes of death in the United States. The main source code file is `Source.cpp`, and the supporting header file is `Support.h`. The audio and text files are used for sound effects and additional information in the project.
+To get started with the DBMS File Repository System, follow these steps:
 
-## Usage
+1. Clone the repository to your local machine using the following command:
+   ```
+   git clone <repository-url>
+   ```
 
-To use the project, simply download or clone the repository and open it in your preferred C++ development environment. Build and run the project to execute the data structures and explore their functionality.
+2. Navigate to the specific folder based on your area of interest, such as Avl, B-Tree, or Red Black Tree.
 
-Feel free to modify and enhance the code according to your requirements.
+3. Refer to the README file within each folder for specific instructions on building, running, and utilizing the corresponding data structure implementation.
 
-Please note that this project is for educational purposes and may not be suitable for production environments.
+4. Explore the Compressed Files folder for any additional resources or archives that may be relevant to the project.
 
-## License
+5. Access Dataset 1 for testing or analysis purposes related to the file repository system.
 
-This project is licensed under the [MIT License](LICENSE).
+6. Enjoy the music files provided in the Music folder, which can serve as a pleasant accompaniment to your coding journey.
+
+Please note that this README.md file provides an overview of the repository's structure and instructions to get started. Your support by starring the repository is highly appreciated!
